@@ -2,7 +2,7 @@
 #### I'm Web Designer & Developer
 ![I'm Web Designer & Developer](https://i.ibb.co/cg4tvd2/banner.png)
 
-Hello, I'm shamim. i'm professionate web desinger and developer. I'm self learner and hard worker.
+Hello, I'm Shamim. i'm professionate web desinger and developer. I'm self learner and hard worker.
 
 Skills:  JAVASCRIP / REACT / PHP / HTML / CSS/ BOOTSTRAP/ MYSQL / WORDPRESS
 
