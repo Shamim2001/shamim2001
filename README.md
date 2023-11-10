@@ -1,13 +1,13 @@
-### Hi there 👋, My name is Shamim Ahmed
+### Hi There 👋, My name is Shamim Ahmed
 #### I'm Web Designer & Developer
 ![I'm Web Designer & Developer](https://i.ibb.co/cg4tvd2/banner.png)
 
-Hello, I'm Shamim. i'm professionate web desinger and developer. I'm self learner and hard worker.
+Hello, I'm Shamim. I'm professionate web desinger and developer. I'm self learner and hard worker.
 
-Skills:  JAVASCRIP / REACT / PHP / HTML / CSS/ BOOTSTRAP/ MYSQL / WORDPRESS
+Skills:  LARAVEL / PHP / JAVASCRIPT / MYSQL / PROJECT MANGEMENT / WORDPRESS
 
-- 🔭 I’m currently working on javascripts , php and wordpress 
-- 🌱 I’m currently learning php, javascript, algorithm and data structure, wordpress theme development 
+- 🔭 I’m currently working on Laravel , Php and Javascript
+- 🌱 I’m currently learning Laravel, Php, javascript
 - 👯 I’m looking to collaborate on trusted client 
 - 📫 How to reach me: shamimahmedridoy2016@gmail.com 
 
