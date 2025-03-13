@@ -1,15 +1,15 @@
 ### Hi There 👋, I'm Shamim Ahmed
-#### I'm Web Designer & Developer
+#### I'm a Web Designer & Developer
 ![I'm Web Designer & Developer](https://i.ibb.co/cg4tvd2/banner.png)
 
-Hello, I'm Shamim. I'm professionate web desinger and developer. I'm self learner and hard worker.
+I'm Shamim. I'm a professional web designer and developer. I'm a self-learner and hard worker.
 
-Skills:  LARAVEL / PHP / JAVASCRIPT / MYSQL / PROJECT MANGEMENT / WORDPRESS
+Skills:  LIVEWIRE / LARAVEL / PHP / JAVASCRIPT / MYSQL / PROJECT MANAGEMENT / WordPress
 
-- 🔭 I’m currently working on Laravel and Javascript
+- 🔭 I’m currently working on Laravel, Liwire and Javascript
 - 🌱 I’m currently learning Laravel, javascript
-- 👯 I’m looking to collaborate on trusted client 
-- 📫 How to reach me: shamimahmedridoy2016@gmail.com 
+- 👯 I’m looking to collaborate with a trusted client 
+- 📫 How to reach me: shamimahmed4113@gmail.com
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shamim2001)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/in/shamimdev//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/shamimahmed23)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com//md_shamimahmed_/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/shamim2001)  
